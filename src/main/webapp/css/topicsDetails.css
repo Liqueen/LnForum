@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-color: rgba(0,0,0,0.1);
+}
+h6{
+    color: #3498db
+}
+.userImg{
+    height:50px;
+    width: 50px;
+    border: 1px solid #91D52B;
+    margin-left: 10px;
+    margin-top: 5px;
+    border-radius: 50px;
+}
+span{
+    font-size: medium;
+}
+#time{
+    float: right;
+    margin-right: 110px;
+    margin-top: 10px;
+}
+.time{
+    float: right;
+    margin-right: 350px;
+    margin-top: 10px;
+}
+#ul01 ul,li{
+    display:block;
+    margin-top: 10px;
+}
+#ul01 li{
+
+}
+#ul02 ul,li{
+    display:block;
+    margin-left: -37px;
+    margin-top: 10px;
+}
+#ul02 li{
+    float:left;
+    margin:auto 20px;
+    list-style:none;
+    height:30px;
+    line-height:30px;
+}
+

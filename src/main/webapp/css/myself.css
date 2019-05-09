@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-color: rgba(0,0,0,0.1);
+}
+#userImg{
+    height:50px;
+    width: 50px;
+    border: 1px solid #91D52B;
+    margin-left: 10px;
+    margin-top: 5px;
+    border-radius: 50px;
+}
+#userName{
+    margin-left: 10px;
+    margin-top: -50px;
+    font-size: 1px;
+}
+#but1,#but2{
+    float: right;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+ul,li{
+    display:block;
+    margin-left: -37px;
+    margin-top: 30px;
+}
+li{
+    float:left;
+    margin:auto 10px;
+    list-style:none;
+    height:30px;
+    line-height:30px;
+}
+ul li span{
+    color: #808080;
+}
+
+
